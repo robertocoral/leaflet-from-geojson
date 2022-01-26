@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Forest Park",
+        "Review": "5 star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25749206542969,
+          38.637790965215856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Gibson ",
+        "Review": "4 star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25989532470703,
+          38.62947713789835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "I64",
+        "Review": "3 star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22041320800781,
+          38.62840431575503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Clayton",
+        "Review": "5 star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31929016113281,
+          38.64422681447823
+        ]
+      }
+    }
+  ]
+}
